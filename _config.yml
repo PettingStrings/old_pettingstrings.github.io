@@ -1,5 +1,10 @@
 # The Site Configuration
 
+#added by me
+#https://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
+category-list: [ project ]
+#
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -76,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/resources/img/placheholder.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
