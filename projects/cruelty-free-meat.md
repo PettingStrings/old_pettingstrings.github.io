@@ -2,7 +2,7 @@
 layout: page
 resource: true
 categories: [project]
-title: Sensor Meme
+title: Cruelty Free Meat
 ---
 
 # Work In Progress
