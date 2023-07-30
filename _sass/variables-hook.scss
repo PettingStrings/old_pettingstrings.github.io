@@ -1,0 +1,10 @@
+/*
+  Appending custom SCSS variables will override the default ones in `_sass/addon/variables.scsss`
+*/
+a{
+  @extend %link-color
+}
+
+a:hover{
+  @extend %link-hover
+}
