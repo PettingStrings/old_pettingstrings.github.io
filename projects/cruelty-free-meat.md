@@ -3,7 +3,6 @@ layout: page
 resource: true
 categories: [project]
 title: Cruelty Free Meat
-language: [it]
 ---
 <p markdown="1" style="text-align: justify;">
 
