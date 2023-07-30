@@ -22,8 +22,8 @@ Per vivere l'esperienza al meglio e senza spoiler consiglio di iniziare dal sito
 
 <table width="100%" style="text-align: center;">
 <tr width="100%">
-    <th width="25%"> <a href="">(ADD LINK) Sito Desktop</a></th>
-    <th width="25%"> <a href="">(ADD LINK)Sito Mobile</a> </th>
+    <th width="25%"> <a href="https://readymag.com/u3104319915/4323469/">(WRONG LINK) Sito Desktop</a></th>
+    <th width="25%"> <a href="https://readymag.com/u3104319915/4323469/">(WRONG LINK)Sito Mobile</a> </th>
     <th width="25%"> <a href="https://linktr.ee/cfmfonti">Fonti</a></th>
     <th width="25%"> <a href="https://linktr.ee/cfmeat">Extra</a></th>
   </tr>
