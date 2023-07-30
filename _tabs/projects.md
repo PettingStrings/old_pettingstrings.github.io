@@ -4,7 +4,6 @@ order: 1
 ---
 # Work in progress
 
-# Projects
 {% for cat in site.category-list %}
 <ul>
   {% for page in site.pages %}
