@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: home
+title: Hello
 ---
 
 I am currently studying __[Computer Science](https://unicam.coursecatalogue.cineca.it/corsi/2023/10025?annoOrdinamento=2016)__

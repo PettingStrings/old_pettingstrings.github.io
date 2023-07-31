@@ -1,8 +1,7 @@
 ---
-layout: page
-resource: true
-categories: [project]
-title: Cruelty Free Meat
+layout: post
+title:  "Cruelty Free Meat"
+pin: true
 ---
 <p markdown="1" style="text-align: justify;">
 

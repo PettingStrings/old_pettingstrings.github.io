@@ -1,12 +1,18 @@
 ---
 layout: page
 resource: true
-categories: [project]
 title: Spacebots
+pin: true
 ---
 <div markdown="1">
 
-1. __[Introduzione](#introduzione)__
+## Introduzione
+Spacebots è un programma che simula dei robot nello spazio che ho fatto per l'esame di __[Metodologie Di Programmazione](http://www.didattica.cs.unicam.it/doku.php?id=didattica:ay2223:mp:main)__. In questo spazio ci sono 2 entità: i robot e delle aree.<br><br>
+Le aree possono essere di forma circolare o rettangolare e possiedono una label che è semplicemente una stringa.<br><br>
+I robot sono rappresentati da una forma circolare e essi possono eseguire del codice scritto in una sintassi inventata.<br><br>
+La simulazione viene eseguita manualmente andando avanti o indietro di *x* step che possono essere decisi dall'utente. Ogni step di simulazione rappresenta un secondo.<br>
+Per informazioni più dettagliate potete consultare la __[specifica di progetto](/resources/docs/spacebots.pdf)__.
+
 2. __[Sintassi](#sintassi)__
 3. __[GUI](#GUI)__
 4. __[Esempi](#Examples)__
@@ -18,12 +24,7 @@ title: Spacebots
 6. __[Conclusioni](#conclusioni)__
 </div>
 
-## Introduzione
-Spacebots è un programma che simula dei robot nello spazio che ho fatto per l'esame di __[Metodologie Di Programmazione](http://www.didattica.cs.unicam.it/doku.php?id=didattica:ay2223:mp:main)__. In questo spazio ci sono 2 entità: i robot e delle aree.<br><br>
-Le aree possono essere di forma circolare o rettangolare e possiedono una label che è semplicemente una stringa.<br><br>
-I robot sono rappresentati da una forma circolare e essi possono eseguire del codice scritto in una sintassi inventata.<br><br>
-La simulazione viene eseguita manualmente andando avanti o indietro di *x* step che possono essere decisi dall'utente. Ogni step di simulazione rappresenta un secondo.<br>
-Per informazioni più dettagliate potete consultare la __[specifica di progetto](/resources/docs/spacebots.pdf)__.
+
 ## Sintassi
 Ogni comando deve essere scritto su una riga.
 <table width="100%" style="text-align: center;">

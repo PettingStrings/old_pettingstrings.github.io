@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 resource: true
-categories: [project]
 title: Sensor Meme
+pin: true
 ---
 
 # Work In Progress
