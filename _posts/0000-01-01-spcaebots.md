@@ -9,7 +9,6 @@ image:
 ---
 <div markdown="1">
 
-## Introduzione
 Spacebots è un programma che simula dei robot nello spazio che ho fatto per l'esame di __[Metodologie Di Programmazione](http://www.didattica.cs.unicam.it/doku.php?id=didattica:ay2223:mp:main)__. In questo spazio ci sono 2 entità: i robot e delle aree.<br><br>
 Le aree possono essere di forma circolare o rettangolare e possiedono una label che è semplicemente una stringa.<br><br>
 I robot sono rappresentati da una forma circolare e essi possono eseguire del codice scritto in una sintassi inventata.<br><br>
