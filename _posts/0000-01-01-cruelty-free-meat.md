@@ -3,7 +3,7 @@ layout: post
 title:  "Cruelty Free Meat"
 pin: true
 image:
-  path: /resources/img/placeholder.png
+  path: /resources/img/cfm/moo.webp
   alt: Cruelty Free Meat
 ---
 <p markdown="1" style="text-align: justify;">

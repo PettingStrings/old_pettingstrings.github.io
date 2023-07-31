@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 resource: true
 title: Spacebots
 pin: true
 image:
-  path: /resources/img/placeholder.png
+  path: /resources/img/spacebots/spacebots_intro.png
   alt: Spacebots
 ---
 <div markdown="1">
