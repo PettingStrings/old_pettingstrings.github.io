@@ -3,6 +3,9 @@ layout: page
 resource: true
 title: Spacebots
 pin: true
+image:
+  path: /resources/img/placeholder.png
+  alt: Spacebots
 ---
 <div markdown="1">
 
