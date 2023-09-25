@@ -70,4 +70,6 @@ Per poter eseguire lo script bisogna installare la libreria [Pytube](https://git
 
 In breve lo script prima controlla che esista e che file contiene la cartella songs, per poi leggere il JSON delle canzoni, controlla che non siano già state scaricate dentro songs per poi procedere ad usare Pytube per scaricare gli .mp3 .
 
+# Conclusione
+Questa applicazione surclasserà Spotify? Non credo proprio. Personalmente mi è più utile, perchè molte canzoni che ascolto non ci sono Spotify e non voglio nemmeno pagare per ascoltare musica senza interruzioni (sono un programmatore, me le faccio io le app). Sicuramente con più lavoro dietro Music Manager potrebbe diventare più completa, infatti avevo iniziato a implementare le playlist e tag, ma ancora una volta mi sono ritrovato stufo di creare un front-end. Tra div che non si centrano e bottoni che non si allineano, trovo molto tedioso creare interfacce web, quindi ho deciso di chiudere il progetto. Ho comunque trovato un modo di aggiungere tag alle canzoni, semplicemente li scrivo dopo il titolo.
 <div>
