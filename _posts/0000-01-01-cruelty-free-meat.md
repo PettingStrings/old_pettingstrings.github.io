@@ -6,7 +6,7 @@ image:
   path: /resources/img/cfm/moo.webp
   alt: Cruelty Free Meat
 ---
-<p markdown="1" style="text-align: justify;">
+<div markdown="1" style="text-align: justify;">
 
 Lo scopo del sito è quello di istruire sulla carne coltivata e stampata per dimostrare che essa non è un male ma il futuro.<br><br>
 Il progetto è stato creato da me e altri 5 compagni per l'esame di __[Grafica per la Comunicazione Digitale](https://unicam.coursecatalogue.cineca.it/insegnamenti/2022/10655/2021/9999/10482?coorte=2021&schemaid=3696)__ ed è diviso in due parti, il sito e il virtual tour.<br><br>
@@ -18,7 +18,7 @@ Il tour virtuale è un serious game atto a testare in modo divertente e interatt
 Il mio ruolo è stato di creare i scenari finali del virtual tour: la __[discarica](https://twinmotion.unrealengine.com/presentation/lvjSOGKP8TUgIsl1?lang=en)__ e la __[festa in riva al lago](https://twinmotion.unrealengine.com/presentation/gIY55cdSmCbYWreU?lang=en)__.<br>
 Per vivere l'esperienza al meglio e senza spoiler consiglio di iniziare dal sito.
 
-</p>
+</div>
 <br>
 <br>
 
